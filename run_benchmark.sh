@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Update these for your system.
-BENCHMARKS_PATH="/usr/local/src/gem5/benchmarks"
-GEM5_PATH="/usr/local/src/gem5"
+BENCHMARKS_PATH="/gem5/script"
+GEM5_PATH="/gem5"
 
 # The benchmark directory structure should be as follows:
 # benchmarks/
